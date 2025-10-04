@@ -1,0 +1,1 @@
+# trivia-biblica-assets
